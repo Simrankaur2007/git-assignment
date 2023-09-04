@@ -1,6 +1,6 @@
 """
 Description: Git Assignment
-Author: Simmran Kaur
-Date: 03-09-2023
-Usage: 
+Author: Simmranjit Kaur
+Date: 06-09-2023
+Usage: Understanding the basic functioning of Git.
 """
